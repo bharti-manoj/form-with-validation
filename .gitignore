@@ -1,2 +1,15 @@
 node_modules
 yarn.lock
+build/asset-manifest.json
+build/favicon.ico
+build/index.html
+build/static/css/main.d73eeef9.css
+build/static/css/main.d73eeef9.css.map
+build/static/js/main.d917b514.js
+build/static/js/main.d917b514.js.map
+build/static/media/glyphicons-halflings-regular.448c34a5.woff2
+build/static/media/glyphicons-halflings-regular.89889688.svg
+build/static/media/glyphicons-halflings-regular.e18bbf61.ttf
+build/static/media/glyphicons-halflings-regular.f4769f9b.eot
+build/static/media/glyphicons-halflings-regular.fa277232.woff
+build/static/media/logo.5d5d9eef.svg
